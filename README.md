@@ -10,6 +10,10 @@ $ whoami
 > rax — cybersec student, occasional hacker
 $ cat .interests
 > web exploitation · osint
+$ ls certs/
+
+eJPTv2
+ICCA
 ```
 
 ### `🔗` find me losing CTFs
