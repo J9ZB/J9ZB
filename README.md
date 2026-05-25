@@ -19,5 +19,5 @@ ICCA
 ### `🔗` find me losing CTFs
 
 ```
-tryhackme   →  https://tryhackme.com/p/J9ZB
+tryhackme   →   https://tryhackme.com/p/J9ZB
 ```
